@@ -10,7 +10,7 @@ instagram机器人, instagram逆向, instagram hook, instagram脚本 发消息, 
 
 # 可以定制任何功能
 
-# 联系方式
-[点击查看](https://github.com/musi66/AndroidRobot)
+# [联系方式,点击查看](https://github.com/musi66/AndroidRobot)
+
 
 
